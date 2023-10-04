@@ -1,3 +1,9 @@
+import os
+import time
+import random
+from datetime import datetime
+import webbrowser
+
 kik = False
 while not kik:
     c = False
@@ -6,11 +12,6 @@ while not kik:
     emp = 0
     z=0
     qtd=0
-    import os
-    import time
-    import random
-    from datetime import datetime
-    import webbrowser
     os.system('mode 105,14') or None
     print('\n')
     print('                                         \033[1mVamos jogar \033[1;43mJokenpô!\033[m ')  
