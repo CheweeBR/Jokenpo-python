@@ -4,7 +4,7 @@
 
 #### Esse foi o primeiro projeto realizado em python, eu criei esse repositório com o objetivo de compartilhar o meu primeiro projeto realizado em minha carreira como programador!
 
-<h2> OBS: O script não atende os requisitos de boas prática, porém, foi essêncial para iniciar meus conhecimentos básicos de lógica de programação.</h2>
+##### OBS: O script não atende os requisitos de boas prática, porém, foi essêncial para iniciar meus conhecimentos básicos de lógica de programação.
 
 ### Tecnologias 🛠️
 
