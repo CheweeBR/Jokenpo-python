@@ -1,4 +1,4 @@
-## Jokenpo em Python
+## Jokenpô em Python
 
 ### Objetivos ❕
 
