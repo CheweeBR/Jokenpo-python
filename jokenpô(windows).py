@@ -247,7 +247,7 @@ while not kik:
         elif r == '666':
             g1 = 999999
             while g1 != 1:
-                print('                                   \033[1;33;41mSATANÁS TE GUIARÁ FILHA DA PUTA!!!')
+                print('                                   \033[1;33;41mBURN!!!!!')
         elif r == '3301':  
             print('A não...\nNão somos da cicada...\nVocê está engana...')
             print()
