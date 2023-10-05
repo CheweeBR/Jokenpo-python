@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-#### Projeto designado a partir dos meus conhecimentos ao realizar o curso de python ministrado por Gustavo Guanabara do Curso em Video 🌐
+#### Projeto designado ao realizar o curso de python ministrado por Gustavo Guanabara do Curso em Video 🌐
 <div style="display: inline_block">
   <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
